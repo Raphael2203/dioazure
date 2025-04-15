@@ -1,0 +1,3 @@
+Como estruturar um sistema de análise de dados?
+Como saber qual é alinguagem de programação pelo seu código?
+Explique a diferença entre android e iphone.
